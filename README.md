@@ -1,4 +1,4 @@
-[📄 Read the full PDF documentation](Tennis_Paper.pdf)
+[📄 Read the Project Report](Tennis_Paper.pdf)
 
 1. **Confidential Dataset:**  
    The NCAA Division I tennis player data collected at UCLA is confidential and cannot be publicly released due to privacy and data-sharing restrictions.
